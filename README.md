@@ -557,8 +557,8 @@ This project is proprietary software. All rights reserved.
 
 ## 👨‍💻 Author
 
-**Radhesh Pai**
-- GitHub: [@radheshpai87](https://github.com/radheshpai87)
+**Pallavi Pai**
+- GitHub: [@pall111](https://github.com/pall111)
 
 ---
 
